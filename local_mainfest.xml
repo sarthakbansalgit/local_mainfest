@@ -1,1 +1,14 @@
 
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+
+  <!-- Trees -->
+
+  <project path="device/realme/RMX3171" name="DPSLEGEND/device_realme_RMX3171.git" remote="github" revision="dot" />
+
+  <project path="vendor/realme/RMX3171" name="DPSLEGEND/vendor_realme_RMX3171.git" remote="github" revision="11">
+
+  
+
+</manifest>
