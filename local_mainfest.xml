@@ -5,7 +5,7 @@
 
   <!-- Trees -->
 
-  <project path="device/realme/RMX3171" name="DPSLEGEND/device_realme_RMX3171.git" remote="github" revision="dot" />
+  <project path="device/realme/RMX3171" name="DPSLEGEND/device_realme_RMX3171.git" remote="github" revision="octavi" />
 
   <project path="vendor/realme/RMX3171" name="DPSLEGEND/vendor_realme_RMX3171.git" remote="github" revision="11">
 
