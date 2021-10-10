@@ -1,14 +1,8 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
-
 <manifest>
 
-  <!-- Trees -->
-
-  <project path="device/realme/RMX3171" name="DPSLEGEND/device_realme_RMX3171.git" remote="github" revision="octavi" />
-
-  <project path="vendor/realme/RMX3171" name="DPSLEGEND/vendor_realme_RMX3171.git" remote="github" revision="11">
-
-  
+ <remote name="dps" fetch="https://github.com/DPSLEGEND" />
+     <project path="device/realme/RMX3171" name="device_realme_RMX3171" remote="dps" revision="Octavi" />
+     <project path="vendor/realme/RMX3171" name="vendor_realme_RMX3171" remote="dps" revision="11" />
 
 </manifest>
